@@ -1,0 +1,15 @@
+AlifHE(Cortex-M55160MHz+U55-128MACC)
+AlifHP(Cortex-M55400MHz+U55-256MACC)
+ArduinoNano33BLESense(Cortex-M4F64MHz)
+ArduinoNiclaVision(Cortex-M7480MHz)
+ArduinoPortentaH7(Cortex-M7480MHz)
+BrainChipAKD1000MINIPCleBoard
+BrickML(Cortex-M33192MHz)
+Cortex-M4F80MHZ
+Cortex-M7216MHZ
+EspressifESP-EYE(ESP32240MHZ)
+HimaxWE-I(ARCDSP400MHZ)
+InfineonPSoC6CY8C624(Cortex-M4F150MHz)
+InfineonPSoC6CY8C6347(Cortex-M4F150MHz)
+MacBookPro16"2020(IntelCorei92.4GHz)
+MemryXMX3
